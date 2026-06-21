@@ -63,8 +63,7 @@ function App() {
           animate={{ opacity: 1 }}
           transition={{ duration: 1 }}
         >
-          {/* Custom cursor */}
-          <CustomCursor />
+          
 
           {/* Global particle system */}
           <ParticleSystem />
