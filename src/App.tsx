@@ -4,7 +4,6 @@ import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
 import { LoadingScreen } from './components/LoadingScreen';
-import { CustomCursor } from './components/CustomCursor';
 import { ParticleSystem } from './components/ParticleSystem';
 import { Navigation } from './components/Navigation';
 import { CinematicHeroSection } from './components/hero/CinematicHeroSection';
